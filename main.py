@@ -44,10 +44,6 @@ while Game_is_on:
             scoreboard.reset()
             snake.reset_snake()
 
-
-
-
-
 screen.exitonclick()
 
 # TODO: Create a Snake Body
